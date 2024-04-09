@@ -1,5 +1,5 @@
 # Data-science-projects-
-Project to train all available knowledge in data science using statistical models, machine learning, time series analysis, deep learning, and AI.
+Project to train all available knowledge in data science using Statistical Models, Machine Learning, Time Series Analysis, Deep Learning, Reinforcement Learning and AI.
 Main libraries used: Statsmodels, Scikit-Learn, TensorFlow, OpenAI, Pandas, NumPy, Plotly
 
 1. **Project: Analysis of 10 business questions**
