@@ -1,4 +1,4 @@
-# Data-science-projects-
+# Data-science-projects-DSA
 Project to train all available knowledge in data science using Statistical Models, Machine Learning, Time Series Analysis, Deep Learning, Reinforcement Learning and AI.
 Main libraries used: Statsmodels, Scikit-Learn, TensorFlow, OpenAI, Pandas, NumPy, Plotly
 
